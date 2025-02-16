@@ -8,7 +8,13 @@ This project detects melanoma cells captured by a Prophesee neuromorphic camera 
 - Tracks cell movement using a centroid tracking algorithm  
 - Handles cell splitting, merging, and reappearance  
 - Processes videos from a Prophesee neuromorphic camera  
-- Generates an output video with detected cells and tracking IDs  
+- Generates an output video with detected cells and tracking IDs
+
+- Detects melanoma cells in microscopy video frames.  
+- Tracks cell movement using a centroid tracking algorithm.  
+- Handles cell splitting, merging, and reappearance.  
+- Processes videos from a Prophesee neuromorphic camera.  
+- Generates an output video with detected cells and tracking IDs.  
 
  
 ## Demo  
@@ -31,7 +37,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-
+Note: Ensure that your environment has all the required dependencies as listed in requirements.txt. If you face issues, check the Python version or any OS-specific dependencies.
 
 ## Project Structure  
 ```bash
@@ -46,7 +52,7 @@ Melanoma-Tracker/
 ```
 
 ## Contact  
-For questions or collaborations, reach out to:  
+For inquiries, reach out to:  
 📧 **Email:** [asaresonjunior@gmail.com]  
-🔗 **LinkedIn:** [YOUR LINKEDIN PROFILE]  
+🔗 **LinkedIn:** [Gideon Asare Owusu]  
 
