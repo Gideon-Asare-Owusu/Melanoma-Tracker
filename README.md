@@ -5,4 +5,4 @@ This project detects melanoma cells captured by a Prophesee neuromorphic camera 
 
  
 ## Demo  
-🔗 [Watch the Demo](https://github.com/Gideon-Asare-Owusu/Melonama-Tracker/blob/main/demo_video.mp4)  
+🔗 [Watch the Demo](https://github.com/Gideon-Asare-Owusu/Melonama-Tracker/blob/main/Examples/H-Stacked%20Video.mp4)  
