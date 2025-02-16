@@ -1,5 +1,5 @@
 # Melanoma Detection and Tracking 
-This project detects melanoma cells captured by a Prophesee neuromorphic camera using background subtraction and contour detection. A customized centroid tracking algorithm tracks detected cells, addressing key challenges in medical imaging, including cell splitting, disappearance and reappearance, and merging followed by later separation.
+This project detects melanoma cells captured by a Prophesee neuromorphic camera using background subtraction and contour detection. A custom centroid tracking algorithm tracks these cells, effectively addressing common challenges in medical imaging, such as cell splitting, disappearance and reappearance, and merging followed by later separation.
 
 ---
 
