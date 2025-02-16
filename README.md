@@ -17,7 +17,7 @@ This project detects melanoma cells captured by a Prophesee neuromorphic camera 
 ## Project Structure  
 ```bash
 Melanoma-Tracker/  
-│── melanoma_detection.ipynb        # Main processing notebook  
+│── ML-Melanoma.ipynb               # Main processing notebook  
 │── tracker.py                      # Object tracking module  
 │── centroidtracker.py              # Centroid tracking helper  
 │── ML-Melanoma.avi                 # Sample input video  
