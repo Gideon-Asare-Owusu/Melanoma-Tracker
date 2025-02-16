@@ -14,6 +14,25 @@ This project detects melanoma cells captured by a Prophesee neuromorphic camera 
 ## Demo  
 🔗 [Watch the Demo](https://github.com/Gideon-Asare-Owusu/Melonama-Tracker/blob/main/Examples/H-Stacked%20Video.mp4)  
 
+
+### Installation & Setup  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/Gideon-Asare-Owusu/Melanoma-Tracker.git
+cd Melanoma-Tracker
+```
+
+### 2️⃣ Install Dependencies  
+```bash
+pip install -r requirements.txt
+```
+### 3️⃣ Run Code Locally (Jupyter Notebook) 
+```bash
+jupyter notebook
+```
+
+
 ## Project Structure  
 ```bash
 Melanoma-Tracker/  
@@ -24,3 +43,10 @@ Melanoma-Tracker/
 │── ML-Melanoma Output.mp4          # Processed output video  
 │── requirements.txt                # List of dependencies  
 │── README.md                       # Documentation  
+```
+
+## Contact  
+For questions or collaborations, reach out to:  
+📧 **Email:** [asaresonjunior@gmail.com]  
+🔗 **LinkedIn:** [YOUR LINKEDIN PROFILE]  
+
